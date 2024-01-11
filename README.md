@@ -18,6 +18,8 @@
 | *GPT-3.5-Turbo | OpenAI | https://chat.openai.com | https://chat.openai.com | Unknown? | Max Token | VQAv2 | GQA | VizWiz | SQA | T-VQA | POPE | MME | MM-Bench | SEED | LLaVA-Bench-Wild | MM-Vet | MMLU | GSM8K | MATH | BIG-Bench-Hard | HumanEval | Natural2Code | DROP | Hellaswag | WMT23 | WinoGrande | AI2 Reasoning Challenge (ARC) |
 | *PaLM 2-L | Google | https://ai.google/discover/palm2/ |  
 | *Claude 2 | Anthropic | https://www.anthropic.com/index/claude-2 |
+| *Claude 2.1 | Anthropic | https://www.anthropic.com/index/claude-2-1 |
+| *Claude Instant | Anthropic |  |
 | *GROK | X AI | https://grok.x.ai/ | Unavailable |
 | LLaMa-2-70B | Meta | https://ai.meta.com/llama/ | https://sdk.vercel.ai/ | 70B | 4096 | VQAv2 | GQA | VizWiz | SQA | T-VQA | POPE | MME | MM-Bench | SEED | LLaVA-Bench-Wild | MM-Vet | 68.9 | 56.8 | MATH | BIG-Bench-Hard | 29.9 | Natural2Code | DROP | 85.3 | WMT23 | 80.2 | AI2 Reasoning Challenge (ARC) | 85.0 | 33.0 | 54.2 (English only) | 85.0 | 60.2 | 49.3 |
 | LLaMa-2-13B | Meta | https://ai.meta.com/llama/ | https://sdk.vercel.ai/ | 13B | 4096 | VQAv2 | GQA | VizWiz | SQA | T-VQA | POPE | MME | MM-Bench | SEED | LLaVA-Bench-Wild | MM-Vet | 54.8 | 28.7 | MATH | BIG-Bench-Hard | 18.3 | Natural2Code | DROP | 80.7 | WMT23 | 72.8 | AI2 Reasoning Challenge (ARC) | 77.2 | 28.0 | 39.1 (English only) | 81.7 | 57.0 | 44.8 |
