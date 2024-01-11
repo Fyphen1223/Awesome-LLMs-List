@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > Name that "*" is added is closed source, not open source.
+> 
 > Value that "?" is added might not be accurate, or might be myth (hallucination). 
 
 | Name | by | URL | Demo | Size | Max Token | VQAv2 | GQA | VizWiz | SQA | T-VQA | POPE | MME | MM-Bench | SEED | LLaVA-Bench-Wild | MM-Vet | MMLU | GSM8K | MATH | BIG-Bench-Hard | HumanEval | Natural2Code | DROP | Hellaswag | WMT23 | WinoGrande | AI2 Reasoning Challenge (ARC) |
