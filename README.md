@@ -8,8 +8,8 @@
 | Gemini Pro | Google | https://blog.google/technology/ai/google-gemini-ai/ , https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf | Through Google API |  1.56T? |
 | Gemini Nano-1 | Google | https://blog.google/technology/ai/google-gemini-ai/ , https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf | Through Pixel | 1.8B |
 | Gemini Nano-2 | Google | https://blog.google/technology/ai/google-gemini-ai/ , https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf | Through Pixel | 3.25B |
-| GPT-4 | OpenAI | | https://chat.openai.com |
-| GPT-3.5 | OpenAI | | |
+| GPT-4 | OpenAI | https://cdn.openai.com/papers/gpt-4.pdf , https://chat.openai.com | https://chat.openai.com | Size is unknown | 8192, 32768 |  |  |  |  |  |  |  |  |  |  |  | 86.4 5-shot | GSM8K | MATH | BIG-Bench-Hard | HumanEval | Natural2Code | DROP | 95.3 10-shot | WMT23 |
+| GPT-3.5 | OpenAI | https://chat.openai.com | https://chat.openai.com |
 | PaLM 2-L | Google | 
 | Claude 2 | Anthropic |
 | INSTRUCT-GPT |
